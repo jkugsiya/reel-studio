@@ -1,0 +1,16 @@
+{
+  "name": "reel-studio",
+  "description": "Reel Studio: a Claude Code skill that edits raw clips into creator-grade Reels, TikToks and Shorts.",
+  "owner": {
+    "name": "jkugsiya",
+    "url": "https://github.com/jkugsiya"
+  },
+  "plugins": [
+    {
+      "name": "reel-studio",
+      "source": "./",
+      "description": "Edit raw phone clips into creator-grade short-form videos with captions, motion graphics, beat-synced cuts and sound design.",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reel-studio",
+  "version": "1.0.0",
+  "description": "Edit raw phone clips into creator-grade Instagram Reels, TikToks and Shorts: word-timed captions, split-screen B-roll, motion graphics, real brand logos, beat-synced cuts, sound design and face-tracked effects.",
+  "author": { "name": "jkugsiya", "url": "https://github.com/jkugsiya" },
+  "homepage": "https://github.com/jkugsiya/reel-studio",
+  "repository": "https://github.com/jkugsiya/reel-studio",
+  "license": "MIT",
+  "keywords": ["video", "reels", "instagram", "tiktok", "shorts", "captions", "remotion", "whisper", "editing"]
+}
